@@ -1,0 +1,45 @@
+/*      HEADER       */
+
+header {
+    border-top: solid 10px #F5F5F5;
+    border-bottom: solid 5px #BEBEBE;
+    background-color: #FFFFFF;
+    position: fixed;
+    max-width: 1200px;
+    margin: 0 auto;
+/*     logo header      */
+       a 
+       {
+           .imagenLogo {
+               width: 70px;
+               border-radius: 100px;
+            }
+            .imagenLogo:hover {
+                background-color: rgb(255, 255, 255);
+                
+            }    
+       }
+
+
+div .linksHeader {
+padding-left: 18px;
+padding-right: 18px;
+font-size: 20px;
+
+}
+
+div .linksHeader:hover {
+    border-bottom: solid 3px black;   
+}
+
+
+
+
+
+
+
+
+}
+
+
+

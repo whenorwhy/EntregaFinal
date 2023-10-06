@@ -1,0 +1,156 @@
+
+@media (max-width: 1100px) {
+ 
+    /*     logo header      */  
+      
+header  a 
+       {
+           .imagenLogo {
+               width: 90px;
+            }  
+       }
+
+/*      link header        */
+
+header div{
+
+
+ .linksHeader {
+padding-left: 20px;
+font-size: 23px;
+}
+}
+
+/*          carrusel             */
+
+div .imagenesCarrusel {
+    margin-top: 10px;
+      height: 320px;
+  }
+
+  .texto-inicial{
+    font-size: 60px;
+}
+.texto-inicial-index{
+    font-size: 60px;
+}
+
+}
+
+@media (max-width: 600px) {
+
+
+
+
+    /*     logo header      */
+    
+         header  a 
+           {
+               .imagenLogo {
+                   width: 70px;
+                }  
+           }
+    
+    /*      link header        */
+    
+  header div{
+      .linksHeader {
+          padding-left: 10px;
+          font-size: 20px;
+        }
+    } 
+     
+/*          carrusel             */
+
+div .imagenesCarrusel {
+    margin-top: 0px;
+    height: 260px;
+}
+ 
+.texto-inicial{
+    font-size: 40px;
+}
+.texto-inicial-index{
+    font-size: 40px;
+}
+    
+    }
+    
+
+@media (max-width: 480px) {
+
+
+  
+
+        /*     logo header      */
+        
+              header a 
+               {
+                   .imagenLogo {
+                       width: 65px;
+                    }  
+               }
+        
+        /*      link header        */
+        
+       header div {
+
+           .linksHeader {
+               padding-left: 8px;
+               font-size: 18px;
+            }
+        }
+            
+         
+/*          carrusel             */
+
+div .imagenesCarrusel {
+    margin-top: 0px;
+    height: 240px;
+}    
+      
+.texto-inicial{
+    font-size: 30px;
+}
+.texto-inicial-index{
+    font-size: 30px;
+}
+    
+}
+
+
+@media (max-width: 320px) {
+    
+
+    
+    /*     logo header      */
+    
+        
+              header a 
+               {
+                   .imagenLogo {
+                       width: 65px;
+                    }  
+               }
+        
+        /*      link header        */
+        
+       header div {
+
+            
+            .linksHeader {
+                padding-left: 8px;
+                font-size: 15px;
+            }
+            
+        }
+              
+/*          carrusel             */
+
+
+div .imagenesCarrusel {
+    height: 150px;
+}      
+        
+    
+}
